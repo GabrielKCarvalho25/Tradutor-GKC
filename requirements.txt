@@ -1,0 +1,10 @@
+PyQt6
+mss
+keyboard
+deep-translator
+pywin32
+winrt-Windows.Foundation
+winrt-Windows.Globalization
+winrt-Windows.Media.Ocr
+winrt-Windows.Graphics.Imaging
+winrt-Windows.Storage.Streams
